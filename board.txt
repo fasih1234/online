@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WELCOME TO FBISE</title>
+</head>
+<body>
+<!--table-->
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+<tr bgcolor="sky blue">
+<td>
+<table border="0" width="50%" cellspacing="0" cellpadding="3">
+<tr bgcolor="sky blue">
+
+
+
+<td width="15%"></td>
+
+<td align="center"bgcolor="black" width="45%"><font color="white" size="2%">Open hours: 09:00-To-17:00 Mon-Fri</font></td>
+<td align="center"><a href="https://www.facebook.com"><img src="images/facebook.jpg"></a></td>
+<td align="center" width=""><a href="https://www.youtube.com"><img src="images/youtube.jpg"</a></td>
+<td align="center"><a href="https;//www.twitter.com"><img src="images/twitter.jpg"</a></td>
+<td align="center"><a href="https://www.telegram.com"><img src="images/telegram.png"></a></td>
+<td align="center"><a href="https://www.Instagram.com"><img src="images/instagram.png"></a></td>
+<td align="center"><a href="https://www.inkedin.com"><img src="images/linkedin.png"></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<!--2nd table-->
+<table border="0" width="100%" cellspacing="0" cellpadding="5">
+<tr>
+
+<td width="10%"></td>
+
+<td width="30%><a href="https://www.google.com"><img src="images/federal.jpg" width="70%"></a></td>
+<td width="10%"><a href="about us.html"><button>ABOUT US</button></a></td>
+<td width="10%"><a href="offices.html"><button>OFFICES</button></a></td>
+<td width="10%"><a href="for students.html"><button>FOR STUDENTS</button></a></td>
+<td width="10%"><a href="for institutes.html"><button>FOR INSTITUTES</button></a></td>
+<td width="10%"><a href="news.html"><button>NEWS</button></a></td>
+<td width="10%"><a href="events.html"><button>EVENTS</button></a></td>
+<td width="10%"><a href="search.html"><button>SEARCH</button></a></td>
+
+</tr>
+</table>
+
+<img src="images/main2.jpg" alt="main" width="100%">
+<center><h2><u>STUDENTS SERVICES</u></h2></center>
+<pre>
+
+ 		<abbr title="view detail"><button><a href="https://www.fbise.edu.pk/allpaper.php"><img src="images/books.jpg" width="100%"></a></button></abbr>			<abbr title="view detail"><button><a href="https://www.fbise.edu.pk/cahllan-main.php"><img src="images/challan.jpg"></a></button></abbr>			<abbr title="view detail"><button><a href="https://www.fbise.edu.pk/Admission_form-main.php"><img src="images/admission.jpg"></a></button></abbr>
+	
+</pre>
+
+<pre>
+		Syllabus for all the grades are available		Fee structure and all the fee related			online admisson forms are accesssible 
+
+		online. the information regarding relevant		queries are solved here.You can get			to every student.Students can now get 
+
+		model papers, old question paper is			your bank challans by staying in your 			themselves enrolled without getting into 
+ 
+		accessible to every student.				home.							the hasstleof coming to federal board
+</pre>
+<pre>
+
+ 		  <abbr title="view detail"><button><a href="https://www.fbise.edu.pk/result-main.php"><img src="images/results.jpg" width="100%"></a></button></abbr>			<abbr title="view detail"><button><a href="https://www.fbise.edu.pk/payment_form.php"><img src="images/payments.jpg"></a></button></abbr>			<abbr title="view detail"><button><a href="https://online.fbise.edu.pk/"><img src="images/online.jpg"></a></button></abbr>
+	
+</pre>
+<pre>		Students will not have to queue up to see 		Only foreign students,can now make the 			FBISE offers a wide range of online services
+
+		thier reults.students can now watch their 		payments through debit cards.FBISE 			like online appointment ,migration, Duplicate
+
+		results online by roll number,name and			provides with different options to			Marksheet, Document verification,result 
+
+		Institute  canalso see  results online.			make it easy for you from home.				cancellation.
+
+
+								<!-- INSTITUTIONS SERVICES-->
+
+<center><h2><u>INSTITUTIONS SERVICES</u></h2></center></pre>
+
+<pre>
+
+ 		  <abbr title="view detail"><button><a href="https://www.google.com"><img src="images/supervisory.jpg" width="100%"></a></button></abbr>			<abbr title="view detail"><button><a href="https://www.google.com"><img src="images/online registration.jpg"></a></button></abbr>			<abbr title="view detail"><button><a href="https://www.google.com"><img src="images/admission.jpg"></a></button></abbr>
+	
+</pre>
+<pre>
+		Teaching and non teaching staff apply			Registration of regular students are			Admisson forms of all students are just 	
+
+		through the online application and			just one click away from you.institutes			one click away from you Students and Institutes
+
+		forward hard copy (list) to director 			can now get all the students registerd 			can no send all th students applications
+
+		research.						online through FBISE website.				online through FBISE website.	
+
+</pre>
+<pre>
+
+ 		  <abbr title="view detail"><button><a href="https://www.google.com"><img src="images/slips.jpg" width="100%"></a></button></abbr>			<abbr title="view detail"><button><a href="https://www.google.com"><img src="images/affilation.jpg"></a></button></abbr>			<abbr title="view detail"><button><a href="https://www.google.com"><img src="images/ranking.jpg"></a></button></abbr>
+	
+</pre>
+<pre>
+		FBISE has made it easy for students to			All the information related to affilation		All affilated institutes with FBISE are 
+
+		get their roll no slips by clicking.			of institutes will be accessible to every		ranked on the base of their merit. the
+
+		All the information regarding issuance			institutions.Institute can online apply for		sequential list of all the institutes
+
+		of  roll no slips will be provided here			affilation with FBISE.					is now present here.
+
+
+</pre>
+
+									<!--MORE SRVICES-->
+<center><h2><u>MORE SERVICES</u></h2></center>
+
+<center><table border="0" width="80%">
+<tr bgcolor="white">
+<td align="center"><a href="https://www.fbise.edu.pk/newsupdatenotification.php"><img src="images/icon 1.png" width="180px"></a></td>
+<td align="center"><a href="https://www.fbise.edu.pk/certificate_comfirm.php"><img src="images/icon 2.png" width="180px"></a></td>
+<td align="center"><a href="https://www.fbise.edu.pk/scholarships.php"><img src="images/icon 3.png" width="180px"></a></td>
+<td align="center"><a href="https://www.fbise.edu.pk/off_line_serv.php"><img src="images/icon 4.png" width="180px"></a><td>
+</tr>
+<tr>
+<td><center><big><font color="sky blue">Notifications/Downloads</font><big></center> </td>
+<td><center><big><font color="yellow">Certificate</font></center></big></td>
+<td><center><big><font color=" green" >ScholarShips</font><center></big></td>
+<td><center><big><font color="sky blue">By Post Services</font><center></big></td>
+
+</table>
+</center>
+<pre><!--WELCOME TO FBISE -->
+
+
+
+<center><u><h1>WELCOME!TO FBISE</h1></u></center>
+<center>FBISE officers are available for students,institutes and general public through online appointment,Email,Phone&Fax.</center>
+
+
+<center><img src="images/officers.png"></center>
+</pre>
+<table border="0" width="100%">
+<tr>
+<td width="20%"><td>
+<td>Controller of examinations deals with:<br>
+<ul type="disc">
+<li>Matters pertaining to conduct examination</li>
+<li>Establishment of examination centers and change of center/subject.</li>
+<li>Preparation and issuance of date sheet ,roll number slips.
+<li>Issuance of material to examination centers.</li>
+<li>Materrs relating to question papers.</li> 
+<li>Marking to answer scripts</li>
+<li>Compilation of results</li>
+<li >Re counting of answer scripts.</li>
+<li >Issuance of mark sheets</li>
+<li >UFM cases are dealt under the supervision of controller of Examinations.</li>
+</ul>
+</td>
+
+
+<td width="40%"></td>
+</tr>
+</table>
+
+<center><a href="https://www.fbise.edu.pk/staff_contact_info.php"><button>View Staff</button></a></center>
+
+<!--last table-->
+
+<table bgcolor="sky blue" border="0"  width="100%">
+<tr>
+<td><center><a href="https://www.fbise.edu.pk/"><img src="images/iso.png" width="300px"></a></center></td>
+</tr>
+<tr>
+<td"></td>
+<td></td>
+<td></td>
+<td></td>
+</table>
+
+
+<table border="0" bgcolor="sky blue" width="100%">
+<tr>
+<td width="10%"></td>
+<td><center><button>IMPORTANT LINKS</button></center><br>
+<a href="http://nbf.org.pk/"><font color="white">NBF</font></a><br><br>
+<a href="https://ibcc.edu.pk/"><font color="white">IBBC</font></a><br><br>
+<a href="https://www.hec.gov.pk/english/pages/home.aspx"><font color="white">HEC</font></a><br><br>
+<a href="http://www.mofept.gov.pk/index"><font color="white">FDE</font></a><br><br>
+</center></td>
+
+
+<td><center><button>FBISE LINKS!</button></center><br>
+<a href="https://www.fbise.edu.pk/datesheetform.php"><font color="white">Date Sheet</font></a><br><br>
+<a href="https://www.fbise.edu.pk/news%20update%20notification/RESULT%20STATISTICS.pdf"><font color="white">Statistics</font></a><br><br>
+<a href="https://www.fbise.edu.pk/Change-of-Subjects.php"><font color="white">Change Subjects</font></a><br><br>
+<a href="https://www.fbise.edu.pk/privacy.php"><font color="white">FBISE Privacy</font></a><br><br>
+</td>
+
+<td><center><button>SUPPORT!</button></center><br>
+<a href="https://www.fbise.edu.pk/tenders.php"><font color="white">Tenders</font></a><br><br>
+<a href="https://www.fbise.edu.pk/press_awards.php"><font color="white">Publications</font></a><br><br>
+<a href="http://it.fbise.edu.pk/map/"><font color="white">Institutions GIS</font></a><br><br>
+<a href="https://www.fbise.edu.pk/FAQs.php"><font color="white">FAQs</font></a><br><br>
+</td>
+
+<td width="35%"><center><img src="images/map.png"></center></td>
+</tr>
+<table width="100%" cellapdding="80" cellspacing="0" >
+<tr>
+<td bgcolor="sky blue"><center><img src="images/last line.png"></center></td>
+<td><pre>
+
+
+
+</pre></td>
+
+</tr>
+</table>
+
+</body>
+</html>
