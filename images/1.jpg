@@ -1,0 +1,1377 @@
+<!DOCTYPE html>
+<!-- saved from url=(0025)https://www.fbise.edu.pk/ -->
+<html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+.blue-color {
+color:blue;
+}
+.green-color {
+color:green;
+}
+.teal-color {
+color:teal;
+}
+.red-color {
+color:red;
+}
+</style>
+        
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>WELCOME TO FBISE</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">       
+		<!-- favicon
+		============================================ -->		
+        <link rel="shortcut icon" type="image/x-icon" href="https://www.fbise.edu.pk/image/favicon.ico">		
+		<!-- Google Fonts
+		============================================ -->		
+        <link href="./1_files/css9b11.css" rel="stylesheet" type="text/css">        
+		<!-- Style CSS
+		============================================ -->
+        <link rel="stylesheet" href="./1_files/style.css">  
+		     
+		<!-- Modernizr JS
+		============================================ -->		
+        <script type="text/javascript" async="" src="./1_files/true"></script><script src="./1_files/modernizr-2.8.3.min.js.download"></script>
+		
+		<!-- GALLERY ONLY
+		============================================ -->	
+		
+    <style type="text/css">#lhc_status_container.hide-status{display:none!important;}#lhc_status_container * {direction:ltr;text-align:left;;font-family:arial;font-size:12px;box-sizing: content-box;zoom:1;margin:0;padding:0}
+#lhc_status_container .status-icon{text-decoration:none;font-size:12px;font-weight:bold;color:#000;display:block;padding:10px 10px 10px 35px;background:url('//online.fbise.edu.pk/chat/design/defaulttheme/images/icons/user_green_chat.png') no-repeat left center}
+#lhc_status_container:hover{}
+#lhc_status_container #offline-icon{background-image:url('//online.fbise.edu.pk/chat/design/defaulttheme/images/icons/user_gray_chat.png')}
+#lhc_status_container{box-sizing: content-box;-webkit-border-top-left-radius: 20px;-moz-border-radius-topleft: 20px;border-top-left-radius: 20px;-webkit-box-shadow: -1px -1px 5px rgba(50, 50, 50, 0.17);border:1px solid #e3e3e3;border-right:0;border-bottom:0;;-moz-box-shadow:-1px -1px 5px rgba(50, 50, 50, 0.17);box-shadow: -1px -1px 5px rgba(50, 50, 50, 0.17);padding:5px 0px 0px 5px;width:190px;font-family:arial;font-size:12px;transition: 1s;position:fixed;bottom:0;right:0;;background-color:#f6f6f6;z-index:9989;}@media only screen and (max-width : 640px) {#lhc_need_help_container{display:none;}#lhc_status_container{position:relative;top:0;right:0;bottom:0;left:0;width:auto;border-radius:2px;box-shadow:none;border:1px solid #e3e3e3;margin-bottom:5px;}}
+</style></head>
+    <body class="" style=""><div id="lhc_status_container"><a id="offline-icon" class="status-icon" href="https://www.fbise.edu.pk/#" onclick="return lh_inst.lh_openchatWindow()">Live help is offline...</a></div>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->      
+     <!--Header Area Start-->
+        <header>
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-8">
+                            <div class="header-top-info">
+                                <span>Open hours: 09:00-TO-17:00 Mon-Fri</span>
+                                <div class="social-links">
+                   <a href="https://www.facebook.com/Federal.BISE.Official/" target="_blank"><i class="fa fa-facebook"></i></a>
+                   <a href="https://www.youtube.com/c/FBISEOfficial/" target="_blank"><i class="fa fa-youtube-play"></i></a>
+                   <a href="https://twitter.com/FBISEOfficial" target="_blank"><i class="fa fa-twitter"></i></a>  
+				   <a href="https://t.me/fbiseofficial" target="_blank"><i class="fa fa-paper-plane "></i></a>
+                   <a href="https://www.instagram.com/FBISE.official/" target="_blank"><i class="fa fa-instagram"></i></a>
+                   <a href="https://www.linkedin.com/company/fbiseofficial" target="_blank"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+            <!--Logo Mainmenu Start-->
+            <div class="header-logo-menu sticker stick slideDown" style="opacity: 1;">
+                <div class="container">
+                    <div class="logo-menu-bg">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-12">
+                                <div class="logo">
+                                    <a href="https://www.fbise.edu.pk/index.php"><img src="./1_files/logo_header.png" alt="FBISE"></a>
+                                </div>	
+                           </div>
+                            <div class="col-lg-9 d-none d-lg-block">
+                                <div class="mainmenu-area">
+                                    <div class="mainmenu">
+                                        <nav>
+                                            <ul id="nav">
+                                                <li class="current"><a href="https://www.fbise.edu.pk/#">About us <i class="fa fa-angle-double-down"></i></a>                                                 
+												<ul class="sub-menu">
+                                                <li><a href="https://www.fbise.edu.pk/introduction.php">Introduction</a></li>
+                                                <li><a href="https://www.fbise.edu.pk/vision.php">Vision &amp; Mission</a></li>
+												<li><a href="https://www.fbise.edu.pk/boardact.php">Board Act</a></li>
+                                                <li><a href="https://www.fbise.edu.pk/regulations.php">Regulations</a></li>
+												<li><a href="https://www.fbise.edu.pk/financ_comittee.php">Finance Committee</a></li>
+                                                <li><a href="https://www.fbise.edu.pk/bog_comittee.php">Board Of Governors</a></li>
+                                               </ul>
+                                               </li>
+                                                <li><a href="https://www.fbise.edu.pk/fbise_offices.php"><i class="fa fa-circle-o-notch fa-spin fa-1x fa-fw"></i>ffices</a>
+                                                </li>
+												 <li><a href="https://www.fbise.edu.pk/#">For Students<i class="fa fa-angle-double-down"></i></a>
+                                                    <ul class="sub-menu">
+                                                     <li><a href="https://www.fbise.edu.pk/Admission_form-main.php"><kbd>SSC/HSSC 02<sup>nd</sup> ANNUAL Exam:-2021</kbd></a></li>
+                                                         <li><a href="https://www.fbise.edu.pk/allpaper.php">Syllabus &amp; Model Papers</a></li>
+                                                         <li><a href="https://www.fbise.edu.pk/cahllan-main.php">Fee Information / Challan</a></li>	
+														 <li><a href="https://www.fbise.edu.pk/result-main.php">Results</a></li>	
+                                                         
+														<!-- <li><a href="payment_form.php">Payment By Credit Card</a></li>-->			
+                                                    </ul>
+                                                 </li>
+												  <li><a href="https://www.fbise.edu.pk/#">For Institutes<i class="fa fa-angle-double-down"></i></a>
+                                                    <ul class="sub-menu">
+													    <li><a href="https://www.fbise.edu.pk/cahllan-main.php">Fee Information / Challan</a></li>
+                         <li><a href="http://portal.fbise.edu.pk/Registration/index.php/CLogin/login">Online Registration</a></li>
+                                                    
+														 <li><a href="https://www.fbise.edu.pk/Rollnoslip-main.php">Roll Number Slips</a></li>				
+                                                    </ul>
+                                                 </li>
+					 <li><a href="https://www.fbise.edu.pk/#"><i class="fa fa-newspaper-o teal-color"></i> News<i class="fa fa-angle-double-down"></i></a>
+						  <ul class="sub-menu">
+                          <li><a href="https://www.fbise.edu.pk/new_mou.php">MOU<img src="./1_files/newflash2.gif"></a></li>
+                         <li><a href="https://www.fbise.edu.pk/staff_contact_info.php">Contact Us</a></li>                          
+                         <li><a href="https://www.fbise.edu.pk/digital_attendance.php">(DAMS)</a></li>                 
+                        <li><a href="https://www.fbise.edu.pk/screen_marking.php">E_Sheets &amp; OMR-Sheets</a></li>
+						
+                        <li><a href="https://www.fbise.edu.pk/Fbise_e_library.php">E_Library</a></li>
+                                                    </ul>
+                                                  </li>
+                                      <li><a href="https://www.fbise.edu.pk/#"><i class="fa fa-camera-retro teal-color"></i> Events<i class="fa fa-angle-double-down"></i></a>
+                                             <ul class="sub-menu">     
+                                            <li><a href="https://www.fbise.edu.pk/about_sports.php">Sports Corner<img src="./1_files/newflash2.gif"></a></li>
+                                              <li><a href="https://www.fbise.edu.pk/main_photogallery.php">Medal Award Ceremony</a></li>
+											 <li><a href="https://www.fbise.edu.pk/academic_week.php">Academic Week</a></li>
+                                             <li><a href="https://www.fbise.edu.pk/fbise_labproject.php">FBISE Project</a></li>	
+                                             <li><a href="https://www.fbise.edu.pk/News_Events.php">Latest News &amp; Events</a></li>	
+                                                                                           <li><a href="https://www.fbise.edu.pk/gallery-main.php">Gallery</a></li>		
+                                       </ul>
+                                      </li>
+                                      </ul>
+                                        </nav>
+                                    </div>
+                                    <ul class="header-search">
+                                        <li class="search-menu">
+                                            <i id="toggle-search" class="fa fa-search"></i>
+                                        </li>
+                                    </ul>
+                                    <!--Search Form-->
+                                    <div class="search">
+                                        <div class="search-form">
+                                            <form id="search-form" action="https://www.fbise.edu.pk/#">
+                                            <input type="search" placeholder="Search here..." name="search">
+                                                <button type="submit">
+                                                    <span><i class="fa fa-search"></i></span>
+                                                </button>
+                                            </form>                                
+                                        </div>
+                                    </div>
+                                    <!--End of Search Form-->
+                                </div>    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+            <!--End of Logo Mainmenu-->
+            <!-- Mobile Menu Area start -->
+            <div class="mobile-menu-area">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="mobile-menu">
+                                <nav id="dropdown" style="display: block;">
+                                   <ul>
+                                  <li class="current"><a href="https://www.fbise.edu.pk/#">About us <i class="fa fa-hand-o-right"></i></a>                                                
+								                <ul class="sub-menu">
+                                                <li><a href="https://www.fbise.edu.pk/introduction.php">Introduction<img src="./1_files/newflash2.gif"></a></li>
+                                                <li><a href="https://www.fbise.edu.pk/vision.php">Vision &amp; Mission</a></li>
+												<li><a href="https://www.fbise.edu.pk/boardact.php">Board Act</a></li>
+                                                <li><a href="https://www.fbise.edu.pk/regulations.php">Regulations</a></li>
+												<li><a href="https://www.fbise.edu.pk/financ_comittee.php">Finance Committee</a></li>
+                                                <li><a href="https://www.fbise.edu.pk/bog_comittee.php">Board Of Governors</a></li>
+                                               </ul>
+                                               </li>
+                                                <li><a href="https://www.fbise.edu.pk/fbise_offices.php"><i class="fa fa-circle-o-notch fa-spin fa-1x fa-fw"></i>ffices </a></li>
+												<li><a href="https://www.fbise.edu.pk/#">For Students <i class="fa fa-hand-o-right"></i></a>
+                                                    <ul class="sub-menu">
+                                                     <li><a href="https://www.fbise.edu.pk/Admission_form-main.php"><kbd>SSC/HSSC 02<sup>nd</sup> ANNUAL Exam:-2021</kbd></a></li>
+                             <li><a href="https://www.fbise.edu.pk/allpaper.php">Syllabus &amp; Model Papers</a></li>
+                              <li><a href="https://www.fbise.edu.pk/cahllan-main.php">Fee Information / Challan</a></li>
+							 <li><a href="https://www.fbise.edu.pk/result-main.php">Results</a></li>	
+							<!--<li><a href="payment_form.php">Payment By Credit Card</a></li>	-->		
+                                                    </ul>
+                                                 </li>
+												  <li><a href="https://www.fbise.edu.pk/#">For Institutes <i class="fa fa-hand-o-right"></i></a>
+                              <ul class="sub-menu">
+													   <li><a href="https://www.fbise.edu.pk/cahllan-main.php">Fee Information / Challan</a></li>
+                                                        <li><a href="http://portal.fbise.edu.pk/Registration/index.php/CLogin/login">Online Registration</a></li>
+							 <li><a href="https://www.fbise.edu.pk/Rollnoslip-main.php">Roll Number Slips</a></li>				
+                              </ul>
+                       </li>
+						<li><a href="https://www.fbise.edu.pk/#"><i class="fa fa-newspaper-o teal-color"></i> News <i class="fa fa-hand-o-right"></i></a>
+						 <ul class="sub-menu">
+                         <li><a href="https://www.fbise.edu.pk/new_mou.php">MOU<img src="./1_files/newflash2.gif"></a></li>
+                         <li><a href="https://www.fbise.edu.pk/staff_contact_info.php">Contact Us</a></li>                          
+                         <li><a href="https://www.fbise.edu.pk/digital_attendance.php">(DAMS)</a></li>                 
+                        <li><a href="https://www.fbise.edu.pk/screen_marking.php">E_Sheets &amp; OMR-Sheets</a></li>
+							 
+                        <li><a href="https://www.fbise.edu.pk/Fbise_e_library.php">E_Library</a></li>
+                         </ul>
+                      </li>
+                    <li><a href="https://www.fbise.edu.pk/#"><i class="fa fa-camera-retro teal-color"></i> Events <i class="fa fa-hand-o-right"></i></a>
+                     
+                  <ul class="sub-menu">
+                  <li><a href="https://www.fbise.edu.pk/about_sports.php">Sports Corner<img src="./1_files/newflash2.gif"></a></li>
+                  <li><a href="https://www.fbise.edu.pk/main_photogallery.php">Medal Award Ceremony</a></li>
+											<li><a href="https://www.fbise.edu.pk/academic_week.php">Academic Week</a></li>
+                                            <li><a href="https://www.fbise.edu.pk/fbise_labproject.php">FBISE Project</a></li>
+                                            <li><a href="https://www.fbise.edu.pk/News_Events.php">Latest News &amp; Events</a></li>
+											                                             <li><a href="https://www.fbise.edu.pk/gallery-main.php">Gallery</a></li>		
+                                       </ul>
+                                      </li>
+								 </ul> 
+                               </nav>
+                            </div>					
+                        </div>
+                    </div>
+                </div>
+            </div>
+         <!-- Mobile Menu Area end -->  <script src="./1_files/jquery.min.js.download"></script>
+<script>
+$(window).on('load',function(){
+ var delayMs = 100; // delay in milliseconds
+ setTimeout(function(){
+ $('#myModal').modal('show');
+  }, delayMs);
+});    
+</script>
+
+<div class="modal fade" id="myModal" aria-hidden="true" style="display: none;">
+      <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+           <div class="modal-content">
+             <div class="modal-header" style="background: #e6c3726e">
+               <h4 class="modal-title w-100 text-center">彡[LATEST NEWS]彡</h4>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+</div>
+ <div class="modal-body">
+ <div class="list-group">
+ 
+ <a href="https://www.fbise.edu.pk/#" class="list-group-item list-group-item-action active">
+  REGISTRATION RETURN DATE EXTENDED
+  </a>   
+ <a href="https://www.fbise.edu.pk/#" class="list-group-item list-group-item-action ">
+  THE DATE FOR RECEIPT OF REGISTRATION RETURN AT SSC LEVEL WITH NORMAL FEE HAS BEEN EXTENDED UP TO 31 <sup>ST</sup> OCTOBER 2021<img src="./1_files/newflash2.gif">
+  </a> 
+   <a href="https://www.fbise.edu.pk/Downloads/Membership_of_BOG_Boys.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> LIST OF ELIGIBLE CANDIDATES FOR THE  ELECTION OF MEMBERSHIP OF BOG (SSC BOYS LEVEL)<img src="./1_files/newflash2.gif">
+  </a>
+    <a href="https://www.fbise.edu.pk/Downloads/Membership_of_BOG_Girls.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> LIST OF ELIGIBLE CANDIDATES FOR THE  ELECTION OF MEMBERSHIP OF BOG (SSC GIRLS LEVEL)<img src="./1_files/newflash2.gif">
+  </a>
+      
+ <a href="https://www.fbise.edu.pk/Downloads/ibcc_cases.jpeg" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> NOTIFICATION  REGARDING FRESH , REAPPEAR , IMPROVMENT AND  IBCC CASES FOR SSC/HSSC EXAMINATION-II (2021)
+  </a>
+  
+  
+<a href="https://www.fbise.edu.pk/notifications/ssc/PAKISTAN_2021_ssc_2nd.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> FEE NOTIFICATION FOR <kbd>SSC 02<sup>nd</sup> ANNUAL</kbd> EXAMINATION 2021 (WITHIN PAKISTAN)
+ <img src="./1_files/newflash2.gif"> </a>
+ <a href="https://www.fbise.edu.pk/notifications/ssc/ABROAD_2021_ssc_2nd.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> FEE NOTIFICATION FOR SSC 02<sup>nd</sup> ANNUAL EXAMINATION 2021 (FOR ABROAD)
+  <img src="./1_files/newflash2.gif"></a>
+  
+ <a href="https://www.fbise.edu.pk/notifications/ssc/promo_criteria.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> PROMOTION CRITERIA FOR THE CANDIDATES OF SSC  AND HSSC ANNUAL EXAMINATION 2021 OF FBISE.
+  </a>
+<a href="https://www.fbise.edu.pk/notifications/hssc/PAKISTAN_2021_hssc_2nd.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> FEE NOTIFICATION FOR <kbd>HSSC 02<sup>nd</sup> ANNUAL</kbd> EXAMINATION 2021 (WITHIN PAKISTAN)
+  </a>
+<a href="https://www.fbise.edu.pk/notifications/hssc/ABROAD_2021_hssc_2nd.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> FEE NOTIFICATION FOR HSSC 02<sup>nd</sup> ANNUAL EXAMINATION 2021 (FOR ABROAD)
+  </a>
+  <a href="https://www.fbise.edu.pk/notifications/ssc/reforms_exam.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> REFORMS IN EXAMINATION SYSTEM.
+  </a>
+   <a href="https://www.fbise.edu.pk/notifications/ssc/old_syllabi.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> NOTIFICATION REGARDING EXAMS IN CURRENT SYLLABI.
+  </a>
+   <a href="https://www.fbise.edu.pk/notifications/ssc/books_for_ssc1.pdf" class="list-group-item list-group-item-action">
+<i class="fa fa-spinner fa-pulse"></i> NOTIFICATION REGARDING BOOKS OF  NATIONAL BOOK FOUNDATION  FOR SSC PART-I  ANNUAL EXAM-2022.
+  </a>
+ 
+  
+</div>
+ </div>
+  <div class="modal-footer" style="background-color:#e6c3726e">
+   <button type="button" class="btn btn-outline-success mx-auto" data-dismiss="modal">Close</button>
+  </div>
+</div>
+</div>
+</div>
+<!--Slider Area Start-->
+        <div class="slider-area slider-style-1">
+            <div class="preview-2">
+                <div id="nivoslider" class="slides nivoSlider">
+                <img src="./1_files/main2.jpg" alt="" title="#slider-1-caption2" style="display: none; width: 1423px;">
+                 <img src="./1_files/main4.jpg" alt="" title="#slider-1-caption4" style="display: none; width: 1423px;">
+			      <img src="./1_files/right_sch.jpg" alt="" title="#slider-1-caption0" style="display: none; width: 1423px;"> 
+                   <img src="./1_files/city_mou.jpg" alt="" title="#slider-1-caption3" style="display: none; width: 1423px;">
+                     <img src="./1_files/ctzen.jpg" alt="" title="#slider-1-caption1" style="display: none; width: 1423px;">
+                    
+					<!--  <img src="image/main3.jpg" alt="" title="#slider-1-caption3"/> -->
+                     
+					   <img src="./1_files/main5.jpg" alt="" title="#slider-1-caption5" style="display: none; width: 1423px;">
+	                <img class="nivo-main-image" src="./1_files/main2.jpg" style="display: inline; width: 1423px; height: auto;"><div class="nivo-caption" style="display: block;">
+                    <div class="banner-content slider-1">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-md-7">
+                                    <div class="text-content slide-2 hidden-xs">
+                                         <h1 class="title1"><font color="#FFFFFF" style="background-color:#37343966">&nbsp;Examination-II &nbsp; 2021&nbsp;</font></h1>
+                                        <p class="sub-title"><font style="background-color:#e6e8e6">&nbsp;You want to appear in  <kbd>SSC/HSSC 02<sup>nd</sup> ANNUAL</kbd> Examination 2021. You can apply online to appear in the examination of the FBISE.</font></p>
+                                        <div class="banner-readmore">
+                                            <a title="For Candidates Only" href="https://www.fbise.edu.pk/Admission_form-main.php"><font color="#FFFFFF">Apply Online</font></a>	
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div></div><div class="nivo-controlNav"><a class="nivo-control active" rel="0">1</a><a class="nivo-control" rel="1">2</a><a class="nivo-control" rel="2">3</a><a class="nivo-control" rel="3">4</a><a class="nivo-control" rel="4">5</a><a class="nivo-control" rel="5">6</a></div> 
+                    
+                    <div id="slider-1-caption0" class="nivo-html-caption nivo-caption">
+                    <div class="banner-content slider-1">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-md-7">
+                                    <div class="text-content">
+                                         <h1 class="title1"><font color="#FFFFFF" style="background-color:#37343966">&nbsp;the right  &nbsp; school &nbsp;</font></h1>
+                                        <p class="sub-title"><font style="background-color:#e6e8e6">&nbsp; THE RIGHT SCHOOL SIGNED MOU WITH FBISE ISLAMABAD FOR AFFILIATION OF THE RIGHT SCHOOL.&nbsp;</font></p>
+                                        <div class="banner-readmore">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    
+                    <div id="slider-1-caption3" class="nivo-html-caption nivo-caption">
+                    <div class="banner-content slider-1">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-md-7">
+                                     <div class="text-content">
+                                         <h1 class="title1"><font color="#FFFFFF" style="background-color:#37343966">&nbsp;the city  &nbsp; school &nbsp;</font></h1>
+                                        <p class="sub-title"><font style="background-color:#e6e8e6">&nbsp; THE CITY SCHOOL SIGNED MOU WITH FBISE ISLAMABAD FOR AFFILIATION OF THE CITY SCHOOL.&nbsp;</font></p>
+                                        <div class="banner-readmore">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    
+                      
+                    
+                    <div id="slider-1-caption1" class="nivo-html-caption nivo-caption">
+                    <div class="banner-content slider-1">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-md-7">
+                                    <div class="text-content">
+                                         <h1 class="title1"><font color="#FFFFFF" style="background-color:#37343966">&nbsp;the citizen  &nbsp; foundation &nbsp;</font></h1>
+                                        <p class="sub-title"><font style="background-color:#e6e8e6">&nbsp; THE CITIZEN FOUNDATION (TCF) SIGNED MOU WITH FBISE ISLAMABAD FOR AFFILIATION OF TCF'S SECONDARY SCHOOLS.&nbsp;</font></p>
+                                        <div class="banner-readmore">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+	
+                 <div id="slider-1-caption2" class="nivo-html-caption nivo-caption">
+                    <div class="banner-content slider-1">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-md-7">
+                                    <div class="text-content slide-2 hidden-xs">
+                                         <h1 class="title1"><font color="#FFFFFF" style="background-color:#37343966">&nbsp;Examination-II &nbsp; 2021&nbsp;</font></h1>
+                                        <p class="sub-title"><font style="background-color:#e6e8e6">&nbsp;You want to appear in  <kbd>SSC/HSSC 02<sup>nd</sup> ANNUAL</kbd> Examination 2021. You can apply online to appear in the examination of the FBISE.</font></p>
+                                        <div class="banner-readmore">
+                                            <a title="For Candidates Only" href="https://www.fbise.edu.pk/Admission_form-main.php"><font color="#FFFFFF">Apply Online</font></a>	
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>	  
+            </div>
+        </div>
+                  <!-- <div id="slider-1-caption3" class="nivo-html-caption nivo-caption">
+                    <div class="banner-content slider-1">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-md-7">
+                                    <div class="text-content">
+                                         <h1 class="title1"><font color="#FFFFFF" style="background-color:#37343966">&nbsp;Examination&nbsp; 2021&nbsp;</font></h1>
+                    <p class="sub-title"><font style="background-color:#e6e8e6" >&nbsp;You want to appear Private in SSC annual examination 2021. You can apply online to appear in the examination of the FBISE.</font></p>
+                                        <div class="banner-readmore">
+                                            <a title="For Private Candidate" href="ONLINE_ADM/FBISE_ONLINE_ADM_SSC_PVT/index.php"><font color="#FFFFFF">Apply Online</font></a>	
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>	-->
+                
+                <div id="slider-1-caption4" class="nivo-html-caption nivo-caption">
+                    <div class="banner-content slider-1">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-md-7">
+                                    <div class="text-content slide-2 hidden-xs">
+                                         <h1 class="title1"><font color="#FFFFFF" style="background-color:#37343966">&nbsp;Examination-II&nbsp; 2021&nbsp;</font></h1>
+                                        <p class="sub-title"><font style="background-color:#e6e8e6">&nbsp;You want to appear Private in <kbd>HSSC 02<sup>nd</sup> ANNUAL</kbd> Examination 2021. You can apply online to appear in the examination of the FBISE.</font></p>
+                                        <div class="banner-readmore">
+                                            <a title="For Private Candidate" href="https://www.fbise.edu.pk/Admission_form-main.php"><font color="#FFFFFF">Apply Online</font></a>	
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>	  
+            
+        
+        
+        <div id="slider-1-caption5" class="nivo-html-caption nivo-caption">
+                    <div class="banner-content slider-1">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-md-7">
+                                    <div class="text-content slide-2 hidden-xs">
+                                         <h1 class="title1"><font color="#FFFFFF" style="background-color:#37343966">&nbsp;Results&nbsp; 2021&nbsp;</font></h1>
+                                        <p class="sub-title">Results of current year including Annual and Supplementry examination are available for all.</p>
+                                        <div class="banner-readmore">
+                                            <a title="See Result here!" href="https://www.fbise.edu.pk/result-main.php"><font color="#FFFFFF">View Results</font></a>	
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>	  
+            
+        
+        <!--End of Slider Area-->
+     <div class="blog-area section-padding section-blue">
+            <div class="container">    
+                     <div align="center" class="single-title">
+                     <h3><b>STUDENTS SERVICES</b></h3>
+					 </div>
+                    <div class="blog-carousel carousel-style-one owl-carousel owl-loaded owl-drag">
+                        
+                    
+                    
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1200px, 0px, 0px); transition: all 0s ease 0s; width: 3600px;"><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+					           <a title="Syllabus &amp; Model Papers" href="https://www.fbise.edu.pk/allpaper.php">
+                          <img src="./1_files/Syllabus &amp; Model Papers.jpg" alt="Model Papers">
+						        <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span>
+                                </a>
+                        </div>
+                        
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Syllabus for all the grades areavailable online. The information regarding relevant model papers, old question papersis accessible to every student. </a> </p>
+                       </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Fee Information" href="https://www.fbise.edu.pk/cahllan-main.php">
+                                     <img src="./1_files/bank chllan.jpg" alt="Fee Info">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>   
+                        </div>
+                       <div class="single-blog-text">
+                        <p align="justify"> Fee structure and all the fee related queries are all solved here. You can now get your bank challans by staying in your home. </p>
+                    </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <!--<a title="HSSC PRIVATE" href="Admission_form-main.php">-->
+                                <a title="SSC/HSSC 2ND ANNUAL" href="https://www.fbise.edu.pk/Admission_form-main.php">
+                                    <img src="./1_files/application form.jpg">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>APPLY ONLINE (EX/PRIVATE)</span>
+                                </span></a> 
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> Online admission forms are accessible to every student. Students can now get themselves enrolled without getting into the hassle of coming to Federal Board.  </p>
+                    </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+					           <a title="Syllabus &amp; Model Papers" href="https://www.fbise.edu.pk/allpaper.php">
+                          <img src="./1_files/Syllabus &amp; Model Papers.jpg" alt="Model Papers">
+						        <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span>
+                                </a>
+                        </div>
+                        
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Syllabus for all the grades areavailable online. The information regarding relevant model papers, old question papersis accessible to every student. </a> </p>
+                       </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Fee Information" href="https://www.fbise.edu.pk/cahllan-main.php">
+                                     <img src="./1_files/bank chllan.jpg" alt="Fee Info">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>   
+                        </div>
+                       <div class="single-blog-text">
+                        <p align="justify"> Fee structure and all the fee related queries are all solved here. You can now get your bank challans by staying in your home. </p>
+                    </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <!--<a title="HSSC PRIVATE" href="Admission_form-main.php">-->
+                                <a title="SSC/HSSC 2ND ANNUAL" href="https://www.fbise.edu.pk/Admission_form-main.php">
+                                    <img src="./1_files/application form.jpg">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>APPLY ONLINE (EX/PRIVATE)</span>
+                                </span></a> 
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> Online admission forms are accessible to every student. Students can now get themselves enrolled without getting into the hassle of coming to Federal Board.  </p>
+                    </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+					           <a title="Syllabus &amp; Model Papers" href="https://www.fbise.edu.pk/allpaper.php">
+                          <img src="./1_files/Syllabus &amp; Model Papers.jpg" alt="Model Papers">
+						        <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span>
+                                </a>
+                        </div>
+                        
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Syllabus for all the grades areavailable online. The information regarding relevant model papers, old question papersis accessible to every student. </a> </p>
+                       </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Fee Information" href="https://www.fbise.edu.pk/cahllan-main.php">
+                                     <img src="./1_files/bank chllan.jpg" alt="Fee Info">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>   
+                        </div>
+                       <div class="single-blog-text">
+                        <p align="justify"> Fee structure and all the fee related queries are all solved here. You can now get your bank challans by staying in your home. </p>
+                    </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <!--<a title="HSSC PRIVATE" href="Admission_form-main.php">-->
+                                <a title="SSC/HSSC 2ND ANNUAL" href="https://www.fbise.edu.pk/Admission_form-main.php">
+                                    <img src="./1_files/application form.jpg">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>APPLY ONLINE (EX/PRIVATE)</span>
+                                </span></a> 
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> Online admission forms are accessible to every student. Students can now get themselves enrolled without getting into the hassle of coming to Federal Board.  </p>
+                    </div>
+                    </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div>
+            </div>
+			<!--End of ROW1-->
+			<br>
+			<!--START of ROW2-->
+			<div class="container">
+			<div class="blog-carousel carousel-style-one owl-carousel owl-loaded owl-drag">
+                    
+                    
+                    
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1200px, 0px, 0px); transition: all 0s ease 0s; width: 3600px;"><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+					            <a title="View Results" href="https://www.fbise.edu.pk/result-main.php">
+                                     <img src="./1_files/results.jpg" alt="Results">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Students will not have to queue up to see their results. Students can now watch their results online by roll number , name and institution also see their results online. </a> </p>
+                       </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Payment By Credit Card" href="https://www.fbise.edu.pk/payment_form.php">
+                                    <img src="./1_files/online payments.jpg" alt="Credit">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>    
+                        </div>
+                       <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Only Foreign students, can now make the payments through debit cards. FBISE provides with different options to make it easy for you to pay your fee directly from home.</a> </p>
+                    </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Apply Online" href="https://online.fbise.edu.pk/">
+                                    <img src="./1_files/online services.jpg" alt=""> 
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>  
+                        </div>
+                          <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">FBISE offers a wide range of online services, like Online Appointment, Migration, Duplicate Marksheet, Document verification, Result Cancellation etc.</a> </p>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+					            <a title="View Results" href="https://www.fbise.edu.pk/result-main.php">
+                                     <img src="./1_files/results.jpg" alt="Results">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Students will not have to queue up to see their results. Students can now watch their results online by roll number , name and institution also see their results online. </a> </p>
+                       </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Payment By Credit Card" href="https://www.fbise.edu.pk/payment_form.php">
+                                    <img src="./1_files/online payments.jpg" alt="Credit">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>    
+                        </div>
+                       <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Only Foreign students, can now make the payments through debit cards. FBISE provides with different options to make it easy for you to pay your fee directly from home.</a> </p>
+                    </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Apply Online" href="https://online.fbise.edu.pk/">
+                                    <img src="./1_files/online services.jpg" alt=""> 
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>  
+                        </div>
+                          <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">FBISE offers a wide range of online services, like Online Appointment, Migration, Duplicate Marksheet, Document verification, Result Cancellation etc.</a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+					            <a title="View Results" href="https://www.fbise.edu.pk/result-main.php">
+                                     <img src="./1_files/results.jpg" alt="Results">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Students will not have to queue up to see their results. Students can now watch their results online by roll number , name and institution also see their results online. </a> </p>
+                       </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Payment By Credit Card" href="https://www.fbise.edu.pk/payment_form.php">
+                                    <img src="./1_files/online payments.jpg" alt="Credit">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>    
+                        </div>
+                       <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">Only Foreign students, can now make the payments through debit cards. FBISE provides with different options to make it easy for you to pay your fee directly from home.</a> </p>
+                    </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Apply Online" href="https://online.fbise.edu.pk/">
+                                    <img src="./1_files/online services.jpg" alt=""> 
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>  
+                        </div>
+                          <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">FBISE offers a wide range of online services, like Online Appointment, Migration, Duplicate Marksheet, Document verification, Result Cancellation etc.</a> </p>
+                        </div>
+                    </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div>
+            </div>
+		<!--End of ROW2-->
+        </div>
+        <!--End of Class Area-->
+        <!--Blog Area Start-->
+        <div class="blog-area section-padding section-blue1">
+            <div class="container">    
+                     <div align="center" class="single-title">
+                                 <h3><b>INSTITUTIONS SERVICES</b></h3>
+					 </div>
+                <div class="blog-carousel carousel-style-one owl-carousel owl-loaded owl-drag">
+                    
+                    
+                    
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1200px, 0px, 0px); transition: all 0s ease 0s; width: 3600px;"><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">                           
+                                <a title="Apply For Nomination" href="https://www.fbise.edu.pk/nominationform.php">
+                                    <img src="./1_files/super staff.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>                               
+                        </div>
+                         <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Teaching and non-Teaching staff shall apply through the online application and forward hard copy/print (List) to Director Research.</a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                               <!-- <a title="Register Students" href="Online_registration_main.php">-->
+                               <a title="Register Students" href="http://portal.fbise.edu.pk/Registration/index.php/CLogin/login">
+                                     <img src="./1_files/online reg.jpg" alt="">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>REGISTRATION OPENED</span>
+                                </span></a>   
+                        </div>
+                        <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Registration of regular students are just one click away from you. Institutions can now get all the students registered online through FBISE website.</a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                               <!-- <a title="Admission Online" href="Admission_form-main.php">-->
+                                 <a title="SSC/HSSC 2ND ANNUAL" href="https://www.fbise.edu.pk/Admission_form-main.php">
+                                   <img src="./1_files/application form.jpg" alt="">
+								   <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>APPLY ONLINE FOR ADMISSION</span>
+                                </span></a>
+                        </div>
+                          <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Admission Form of all students are just one click away from you. Students and Institutions can now send all the students application online through FBISE website.  </a> </p>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">                           
+                                <a title="Apply For Nomination" href="https://www.fbise.edu.pk/nominationform.php">
+                                    <img src="./1_files/super staff.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>                               
+                        </div>
+                         <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Teaching and non-Teaching staff shall apply through the online application and forward hard copy/print (List) to Director Research.</a> </p>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                               <!-- <a title="Register Students" href="Online_registration_main.php">-->
+                               <a title="Register Students" href="http://portal.fbise.edu.pk/Registration/index.php/CLogin/login">
+                                     <img src="./1_files/online reg.jpg" alt="">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>REGISTRATION OPENED</span>
+                                </span></a>   
+                        </div>
+                        <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Registration of regular students are just one click away from you. Institutions can now get all the students registered online through FBISE website.</a> </p>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                               <!-- <a title="Admission Online" href="Admission_form-main.php">-->
+                                 <a title="SSC/HSSC 2ND ANNUAL" href="https://www.fbise.edu.pk/Admission_form-main.php">
+                                   <img src="./1_files/application form.jpg" alt="">
+								   <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>APPLY ONLINE FOR ADMISSION</span>
+                                </span></a>
+                        </div>
+                          <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Admission Form of all students are just one click away from you. Students and Institutions can now send all the students application online through FBISE website.  </a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">                           
+                                <a title="Apply For Nomination" href="https://www.fbise.edu.pk/nominationform.php">
+                                    <img src="./1_files/super staff.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>                               
+                        </div>
+                         <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Teaching and non-Teaching staff shall apply through the online application and forward hard copy/print (List) to Director Research.</a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                               <!-- <a title="Register Students" href="Online_registration_main.php">-->
+                               <a title="Register Students" href="http://portal.fbise.edu.pk/Registration/index.php/CLogin/login">
+                                     <img src="./1_files/online reg.jpg" alt="">
+									 <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>REGISTRATION OPENED</span>
+                                </span></a>   
+                        </div>
+                        <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Registration of regular students are just one click away from you. Institutions can now get all the students registered online through FBISE website.</a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                               <!-- <a title="Admission Online" href="Admission_form-main.php">-->
+                                 <a title="SSC/HSSC 2ND ANNUAL" href="https://www.fbise.edu.pk/Admission_form-main.php">
+                                   <img src="./1_files/application form.jpg" alt="">
+								   <span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>APPLY ONLINE FOR ADMISSION</span>
+                                </span></a>
+                        </div>
+                          <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">Admission Form of all students are just one click away from you. Students and Institutions can now send all the students application online through FBISE website.  </a> </p>
+                        </div>
+                    </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div>
+            </div>
+			<!--End of ROW1-->
+			<br>
+			<!--START of ROW2-->
+			<div class="container">
+                <div class="blog-carousel carousel-style-one owl-carousel owl-loaded owl-drag">
+                   
+                   
+                   
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1200px, 0px, 0px); transition: all 0s ease 0s; width: 3600px;"><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="View Roll Number Slips" href="https://www.fbise.edu.pk/Rollnoslip-main.php">
+                                    <img src="./1_files/roll no slips.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                               </span></a>    
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">FBISE has made it easy for students to get their roll number slips by just clicking. All the information regarding issuance of roll number slips will be provided here. </a> </p>
+                    </div>    
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Affiliate Institution" href="https://portal.fbise.edu.pk/inst_login/">
+                                    <img src="./1_files/affiliate_online.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>
+                        </div>
+                          <div class="single-blog-text">
+     <p align="justify"> <a href="https://www.fbise.edu.pk/">All the information related to affiliation of institutes will be accessible to every institution. Institute can online apply  for affiliation  with FBISE. </a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Ranking of Inst" href="https://www.fbise.edu.pk/Fbise_affiliated_inst.php">
+                                    <img src="./1_files/ranking.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>  
+                        </div>
+                         <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">All affiliated Institutes with FBISE are ranked  on the base of their merit. The sequential list of all the institutes is now present here. </a> </p>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="View Roll Number Slips" href="https://www.fbise.edu.pk/Rollnoslip-main.php">
+                                    <img src="./1_files/roll no slips.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                               </span></a>    
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">FBISE has made it easy for students to get their roll number slips by just clicking. All the information regarding issuance of roll number slips will be provided here. </a> </p>
+                    </div>    
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Affiliate Institution" href="https://portal.fbise.edu.pk/inst_login/">
+                                    <img src="./1_files/affiliate_online.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>
+                        </div>
+                          <div class="single-blog-text">
+     <p align="justify"> <a href="https://www.fbise.edu.pk/">All the information related to affiliation of institutes will be accessible to every institution. Institute can online apply  for affiliation  with FBISE. </a> </p>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Ranking of Inst" href="https://www.fbise.edu.pk/Fbise_affiliated_inst.php">
+                                    <img src="./1_files/ranking.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>  
+                        </div>
+                         <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">All affiliated Institutes with FBISE are ranked  on the base of their merit. The sequential list of all the institutes is now present here. </a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="View Roll Number Slips" href="https://www.fbise.edu.pk/Rollnoslip-main.php">
+                                    <img src="./1_files/roll no slips.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                               </span></a>    
+                        </div>
+                        <div class="single-blog-text">
+                         <p align="justify"> <a href="https://www.fbise.edu.pk/">FBISE has made it easy for students to get their roll number slips by just clicking. All the information regarding issuance of roll number slips will be provided here. </a> </p>
+                    </div>    
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Affiliate Institution" href="https://portal.fbise.edu.pk/inst_login/">
+                                    <img src="./1_files/affiliate_online.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>
+                        </div>
+                          <div class="single-blog-text">
+     <p align="justify"> <a href="https://www.fbise.edu.pk/">All the information related to affiliation of institutes will be accessible to every institution. Institute can online apply  for affiliation  with FBISE. </a> </p>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="single-teachers-column">
+                        <div class="teachers-image-column">
+                                <a title="Ranking of Inst" href="https://www.fbise.edu.pk/Fbise_affiliated_inst.php">
+                                    <img src="./1_files/ranking.jpg" alt="">
+									<span class="image-hover">
+                                    <span><i class="fa fa-weibo"></i>View Detail</span>
+                                </span></a>  
+                        </div>
+                         <div class="single-blog-text">
+      <p align="justify"> <a href="https://www.fbise.edu.pk/">All affiliated Institutes with FBISE are ranked  on the base of their merit. The sequential list of all the institutes is now present here. </a> </p>
+                        </div>
+                    </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div>
+            </div>
+			<!--End of ROW2-->
+        </div>
+        <!--End of Blog Area-->
+				<!--Activity Area Start-->
+        <div class="activity-area section-blue2">
+            <div class="container">
+                              <div align="center" class="single-title">
+                                 <h3><b>MORE SERVICES</b>
+							  </h3></div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6 activity">
+                        <div class="single-activity">
+                           
+                       <a href="https://www.fbise.edu.pk/newsupdatenotification.php">
+                            <div class="single-activity-icon">
+                              <i class="fa fa-file-text"></i>
+                            </div>
+							 <h4>Notifications / Downloads</h4>
+                             </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 activity">
+                        <div class="single-activity">
+						<a href="https://www.fbise.edu.pk/certificate_comfirm.php">
+                            <div class="single-activity-icon">
+                               <i class="fa fa-certificate"></i>
+                            </div>
+                            <h4>Certificate </h4>
+							</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 activity">
+                        <div class="single-activity mrg-res-top-md">
+                    		<a href="https://www.fbise.edu.pk/scholarships.php">
+                            <div class="single-activity-icon">
+                             <i class="fa fa-graduation-cap"></i>
+                            </div>
+                            <h4>Scholarships</h4>
+							</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 activity">
+                        <div class="single-activity mrg-res-top-md">
+						<a href="https://www.fbise.edu.pk/off_line_serv.php">
+                            <div class="single-activity-icon">
+                                <i class="fa fa-envelope"></i>
+                            </div>
+                            <h4>By Post Services</h4>
+							</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--End of Activity Area-->
+		 <!--OUR HOD Start-->
+        <div class="testimonial-small-carousel">
+                    <div class="col-md-12">
+                     <div align="center" class="single-title">
+                                 <h3><b>WELCOME! TO FBISE </b></h3>
+                                 <p> <strong>FBISE officers are available for students, institutes and general public through Online Appointment, Email,Phone &amp; Fax.</strong></p>
+                              </div>
+                <div class="row">
+                    <div class="col-xl-8 col-lg-10 col-12 ml-auto mr-auto">
+                        <div class="testimonial-image-text-wrapper">
+                            <div class="testimonial-small-image-slider text-center slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
+                                <div aria-live="polite" class="slick-list draggable" style="padding: 0px 10px;"><div class="slick-track" role="listbox" style="opacity: 1; width: 3528px; transform: translate3d(-672px, 0px, 0px);"><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="-6" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                         <img src="./1_files/cont_con.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="-5" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                       <img src="./1_files/dir_reg.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/dir_owc.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/dir_m.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned slick-active" data-slick-index="-2" aria-hidden="false" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                         <img src="./1_files/dir_res.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned slick-active" data-slick-index="-1" aria-hidden="false" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/dir_it.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-current slick-active slick-center" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide10" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/cm_fbise.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-active" data-slick-index="1" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide11" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/sec_fbise.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-active" data-slick-index="2" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide12" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                    <img src="./1_files/contr_sec.jpg" alt="">
+                                       
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide13" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                         <img src="./1_files/cont_con.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide14" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                       <img src="./1_files/dir_reg.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide15" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/dir_owc.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide16" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/dir_m.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide17" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                         <img src="./1_files/dir_res.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide18" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/dir_it.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned slick-center" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/cm_fbise.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/sec_fbise.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                    <img src="./1_files/contr_sec.jpg" alt="">
+                                       
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="12" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                         <img src="./1_files/cont_con.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="13" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                       <img src="./1_files/dir_reg.jpg" alt="">
+                                    </div>
+                                </div><div class="sin-testiImage slick-slide slick-cloned" data-slick-index="14" aria-hidden="true" tabindex="-1" style="width: 168px;">
+                                    <div class="teacher-image-carousel">
+                                        <img src="./1_files/dir_owc.jpg" alt="">
+                                    </div>
+                                </div></div></div>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                    
+                            <button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button></div> 
+     <div class="testimonial-small-text-slider text-center slick-initialized slick-slider">
+                   <div aria-live="polite" class="slick-list"><div class="slick-track" role="listbox" style="opacity: 1; width: 8181px;"><div class="sin-testiText slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 909px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;">
+                   <h2>Mr. Qaisar Alam</h2>
+                   <span><strong>Chairman</strong></span>
+                   <p align="justify">� On the direction of the Federal Minister for Federal Education and Professional Training Mr. Shafqat Mahmood, FBISE accelerated the efforts to reduce the syllabus at Intermediate level in collaboration with National Curriculum Council through the subject experts. The reduced syllabus dully approved by the Ministry of Federal Education and Professional Training has been uploaded on website of FBISE for the benefit of teachers and students. �</p>
+                 </div><div class="sin-testiText slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide01" style="width: 909px; position: relative; left: -909px; top: 0px; z-index: 998; opacity: 0;">
+                <h2>Mr. Rao Atiq</h2>
+                <span>Secretary</span>
+                <p align="left"> Secretary is the administrative head of FBISE deals with: 
+                </p><ol style="text-align:left">  
+                <li type="disc">General administration of FBISE. </li>
+                <li type="disc">Preparation of agenda for BOGs meeting.  </li>
+                <li type="disc">Issuance of  minutes of the meeting. </li>
+                <li type="disc">Matters relating to issuance of certificates. </li>
+                <li type="disc">Affiliation of institutions. </li> </ol><p></p>   
+                <a href="https://www.fbise.edu.pk/staff_contact_info.php" class="button-default" tabindex="-1">View Staff</a>                                   
+               </div><div class="sin-testiText slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide02" style="width: 909px; position: relative; left: -1818px; top: 0px; z-index: 998; opacity: 0;">
+                 <h2>Dr. Bashir Khan </h2>
+                <span>Controller of Examinations</span>
+                <p align="left">Controller of Examinations deals with:
+                </p><ol style="text-align:left">
+                 <li type="disc">Matters pertaining to conduct of examination.</li>
+               <li type="disc">Establishment of examination centers and change of center/subject. </li>
+               <li type="disc">Preparation and issuance of date sheet, roll number slips. </li>
+               <li type="disc">Issuance of material to examination centers.</li>
+               <li type="disc">Matters relating to question papers.</li>
+                <li type="disc">Marking of answer scripts. </li>
+                <li type="disc">Compilation of result.</li>
+                <li type="disc">Re-counting of answer scripts. </li>
+                <li type="disc">Issuance of mark sheets. </li>
+               <li type="disc">UFM cases are dealt under the supervision of Controller of Examinations. </li> </ol><p></p>
+              
+               <a href="https://www.fbise.edu.pk/staff_contact_info.php" class="button-default" tabindex="-1">View Staff</a> 
+               </div><div class="sin-testiText slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide03" style="width: 909px; position: relative; left: -2727px; top: 0px; z-index: 998; opacity: 0;">
+                 <h2>Mrs. Fatima Tahira</h2>
+               <span>Director (Registration) </span>
+               <p align="left">Director (Registration) deals with: 
+               </p><ol style="text-align:left"> 
+                <li type="disc">Matters regarding registration of students.</li>
+               <li type="disc">Correction in name/ parentage.</li>
+               <li type="disc">Correction in date of birth etc.</li>
+              </ol><p></p>
+                <a href="https://www.fbise.edu.pk/staff_contact_info.php" class="button-default" tabindex="-1">View Staff</a>
+               </div><div class="sin-testiText slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide04" style="width: 909px; position: relative; left: -3636px; top: 0px; z-index: 998; opacity: 0;">
+                <h2>Mr Mirza Ali</h2>
+               <span>Director (Research &amp; Academics)</span>
+               <p align="left">Director (Research &amp; Academics) deals with:  
+               </p><ol style="text-align:left">
+                <li type="disc">Matters regarding preparation of scheme of studies.</li>
+               <li type="disc">Matters relating to meritorious scholarships.</li>
+               <li type="disc">Appointment of examiners.</li>
+               <li type="disc">Syllabus.</li>
+               </ol><p></p>
+               <a href="https://www.fbise.edu.pk/staff_contact_info.php" class="button-default" tabindex="-1">View Staff</a>
+               </div><div class="sin-testiText slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide05" style="width: 909px; position: relative; left: -4545px; top: 0px; z-index: 998; opacity: 0;">
+               <h2>Mr. Sajid Ali Abbasi </h2>
+                <span>Director (Affiliation &amp; Quality)</span>
+                <p align="left"> Director (Affiliation &amp; Quality) deals with:
+                </p><ol style="text-align:left">   
+                <li type="disc">Matters regarding issuance of migration certificates.</li>
+                <li type="disc">Provision of general information. </li>
+                <li type="disc">Public dealing etc.</li></ol><p></p>
+                <a href="https://www.fbise.edu.pk/staff_contact_info.php" class="button-default" tabindex="-1">View Staff</a>
+               </div><div class="sin-testiText slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide06" style="width: 909px; position: relative; left: -5454px; top: 0px; z-index: 998; opacity: 0;">
+               <h2>Mr Hamid Ullah</h2>
+               <span>Director MPDU </span>
+             <p align="left">This section deals training to enhance capabilities etc.</p>
+             <a href="https://www.fbise.edu.pk/staff_contact_info.php" class="button-default" tabindex="-1">View Staff</a>
+               </div><div class="sin-testiText slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide07" style="width: 909px; position: relative; left: -6363px; top: 0px; z-index: 998; opacity: 0;">
+               <h2>Mr. Zulfiqar Ali Rizvi</h2>
+               <span>Director (OWC &amp; Affairs of Cafeteria)</span>
+               <p align="left">Director (OWC &amp; Affairs of Cafeteria) deals with:  
+               </p><ol style="text-align:left">
+               <li type="disc">Matters regarding issuance of migration certificates.</li>
+                <li type="disc">Provision of general information. </li>
+                <li type="disc">Public dealing etc.</li>
+               <li type="disc">Deals with Affairs of Cafeteria </li> </ol><p></p>
+               <a href="https://www.fbise.edu.pk/staff_contact_info.php" class="button-default" tabindex="-1">View Staff</a>
+              </div><div class="sin-testiText slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide08" style="width: 909px; position: relative; left: -7272px; top: 0px; z-index: 998; opacity: 0;">
+               <h2>Mr Muhammad Sarwar</h2>
+               <span>Director Information Technology</span>
+            <p align="left">This section deals with web based applications, networks, data entry, preparation of result, archiving of record and other computer related issues. </p>
+             <a href="https://www.fbise.edu.pk/staff_contact_info.php" class="button-default" tabindex="-1">View Staff</a>
+                            </div></div></div>
+                
+                
+               
+               
+               
+               
+               
+                  
+                        </div>    
+                    </div>
+                </div>
+            </div>
+		 </div>
+          </div>
+        <!--End of our HOD-->
+
+<!--Register Area Start-->
+       <!-- <div class="register-area register-style-two">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 col-md-5 col-12">
+                        
+                    </div>
+                    <div class="col-lg-7 col-md-7 col-12">
+                        <div class="register-info">
+                            <h4>Countdown for Online Affiliation >> <span> With FBISE </span></h4>
+                            <h4> APPLY ONLINE FOR ALL AFFILIATION  SERVICES</h4>
+                            <div class="timer">
+                                <div data-countdown="2021/06/17" class="timer-grid"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+        <!--End of Register-->
+          <!--Footer Area Start-->		  
+         <!--Footer Area Start-->
+  <br>
+        <div class="footer-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="footer-info-container text-center section-padding">
+                                <a href="https://www.fbise.edu.pk/"><img src="./1_files/footer_iso.png" width="257" height="73" alt="FBISE"></a>
+                        </div>
+                    </div>
+                </div>
+                 <div class="footer-widget-container section-padding">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-2 col-sm-4">
+                            <div class="single-footer-widget">
+                            <button type="button" class="btn btn-info">IMPORTANT LINKS!</button>
+                                <ul class="footer-widget-list">
+								<li><a href="http://nbf.org.pk/">NBF</a></li>
+                                    <li><a href="https://ibcc.edu.pk/">IBCC</a></li>
+                                    <li><a href="https://www.hec.gov.pk/english/pages/home.aspx">HEC</a></li>
+                                    <li><a href="http://www.mofept.gov.pk/index">FDE</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2 col-sm-4">
+                            <div class="single-footer-widget">
+                             <button type="button" class="btn btn-info">FBISE LINKS!</button>
+                                <ul class="footer-widget-list">
+                                    <li><a href="https://www.fbise.edu.pk/datesheetform.php">Date Sheet</a></li>
+									 <li><a href="https://www.fbise.edu.pk/news%20update%20notification/RESULT%20STATISTICS.pdf">Statistics</a></li>
+                                    <li><a href="https://www.fbise.edu.pk/Change-of-Subjects.php">Change Subjects.</a></li>
+                                    <li><a href="https://www.fbise.edu.pk/privacy.php">FBISE Privacy</a></li>   
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-sm-4">
+                            <div class="single-footer-widget">
+                             <button type="button" class="btn btn-info">SUPPORT!</button>
+                                <ul class="footer-widget-list">
+								 <li><a href="https://www.fbise.edu.pk/tenders.php">Tenders</a></li>
+                                    <li><a href="https://www.fbise.edu.pk/press_awards.php">Publications</a></li>
+                                     <li><a href="http://it.fbise.edu.pk/map/">Institutions GIS </a></li>
+                                    <li><a href="https://www.fbise.edu.pk/FAQs.php">FAQs</a></li>  
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12">
+             <div id="googleMap" style="width:350px;height:200px;">
+            <iframe src="./1_files/embed.html" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                            </div>      
+                        </div>
+                    </div>
+                </div>
+               <div class="row">
+                    <div class="col-lg-12">
+                        <div class="footer-container">
+                            <div class="row" style="background-color:#666666">
+                                <div class="col-lg-9">
+                                    <span>Federal Board of Intermediate and
+                                    Secondary Education Islamabad,PAKISTAN.P.O. BOX NO. (1365)&nbsp;&nbsp;&nbsp;</span>
+                                   <span><i class="fa fa-envelope"></i>&nbsp;&nbsp;info@fbise.edu.pk&nbsp;&nbsp;&nbsp;</span>
+                                <span>&nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;(051)  9269555 - 559</span> 
+                                </div>
+                                <div class="col-lg-3">
+                                  <span> © 2021 <a href="https://www.fbise.edu.pk/#">FBISE-Islamabad</a>. All rights reserved</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        
+        <!--End of Footer Area-->
+
+  <!-- Footer end -->
+
+<!-- jquery
+		============================================ -->			
+        <script src="./1_files/jquery-1.12.3.min.js.download"></script>
+        
+        <!-- Popper JS
+		============================================ -->		
+        <script src="./1_files/popper.js.download"></script>
+        
+		<!-- bootstrap JS
+		============================================ -->		
+        <script src="./1_files/bootstrap.min.js.download"></script>
+        
+		<!-- bootstrap Toggle JS
+		============================================ -->		
+        <script src="./1_files/bootstrap-toggle.min.js.download"></script>
+        
+        <!-- nivo slider js
+		============================================ -->       
+		<script src="./1_files/jquery.nivo.slider.js.download"></script>
+		<script src="./1_files/home.js.download"></script>
+		
+		<!-- wow JS
+		============================================ -->		
+        <script src="./1_files/wow.min.js.download"></script>
+        
+		<!-- meanmenu JS
+		============================================ -->		
+        <script src="./1_files/jquery.meanmenu.js.download"></script>
+        
+		<!-- Owl carousel JS
+		============================================ -->		
+        <script src="./1_files/owl.carousel.min.js.download"></script>
+        
+		<!-- Countdown JS
+		============================================ -->		
+        <script src="./1_files/jquery.countdown.min.js.download"></script>
+        
+		<!-- scrollUp JS
+		============================================ -->		
+        <script src="./1_files/jquery.scrollUp.min.js.download"></script>
+        
+		<!-- Waypoints JS
+		============================================ -->		
+        <script src="./1_files/waypoints.min.js.download"></script>
+        
+		<!-- Counterup JS
+		============================================ -->		
+        <script src="./1_files/jquery.counterup.min.js.download"></script>
+        
+		<!-- Slick JS
+		============================================ -->		
+        <script src="./1_files/slick.min.js.download"></script>
+        
+		<!-- Mix It Up JS
+		============================================ -->		
+        <script src="./1_files/jquery.mixitup.js.download"></script>
+        
+		<!-- Venubox JS
+		============================================ -->		
+        <script src="./1_files/venobox.min.js.download"></script>
+        
+		<!-- plugins JS
+		============================================ -->		
+        <script src="./1_files/plugins.js.download"></script>
+        
+        <!-- Google Map js
+		============================================ --> 		
+         <script src="./1_files/main.js.download"></script>        <!--End of Footer Area-->
+
+        
+		<!-- main JS
+		============================================ -->	
+         
+     
+
+  
+		
+ <script type="text/javascript">
+
+var LHCChatOptions = {};
+
+LHCChatOptions.opt = {widget_height:340,widget_width:300,popup_height:520,popup_width:500,domain:'online.fbise.edu.pk/'};
+
+(function() {
+
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+var referrer = (document.referrer) ? encodeURIComponent(document.referrer.substr(document.referrer.indexOf('://')+1)) : '';
+
+var location  = (document.location) ? encodeURIComponent(window.location.href.substring(window.location.protocol.length)) : '';
+
+po.src = '//online.fbise.edu.pk/chat/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true?r='+referrer+'&l='+location;
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+})();
+
+</script></header><a id="scrollUp" href="https://www.fbise.edu.pk/#top" style="position: fixed; z-index: 2147483647; display: block;"><i class="fa fa-angle-up"></i></a></body></html>
